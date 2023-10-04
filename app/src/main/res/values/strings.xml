@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="titleNotificacion">UTP Alerta</string>
+    <string name="titleCuerpo">Bienvenido</string>
+    <string name="titleLog">Logo</string>
+    <string name="reply_label">Reply</string>
+</resources>
